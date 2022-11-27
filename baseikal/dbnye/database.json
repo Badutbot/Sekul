@@ -1214,6 +1214,71 @@
       "afkTime": -1,
       "afkReason": "",
       "limit": 100
+    },
+    "6281578274799@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6283101242953@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6288213158738@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6283876617439@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "62895392500607@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6285809349887@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6282335343038@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6285882496706@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "62882003829310@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6285754839134@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "62882021734861@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6285794503301@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6281275231467@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
     }
   },
   "chats": {
@@ -1435,6 +1500,18 @@
     },
     "120363043906433139@g.us": {
       "mute": false
+    },
+    "120363047859717996@g.us": {
+      "mute": false
+    },
+    "628990008128@s.whatsapp.net": {
+      "mute": false
+    },
+    "120363040617459379@g.us": {
+      "mute": false
+    },
+    "120363045023603410@g.us": {
+      "mute": false
     }
   },
   "database": {},
@@ -1475,6 +1552,11 @@
       "recording": false
     },
     "6282163278431@s.whatsapp.net": {
+      "available": true,
+      "composing": false,
+      "recording": false
+    },
+    "6281349657008@s.whatsapp.net": {
       "available": true,
       "composing": false,
       "recording": false
